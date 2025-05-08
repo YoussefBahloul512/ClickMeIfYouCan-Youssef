@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to right, #020024, #090979, #00D4FF);
+    background-image: linear-gradient(to left, #00D4ff, #090979, #020024);
+}
+button{
+    position: absolute;
+    transition: .2s;
+    background-color: #3434c4;
+    padding: 10px 30px;
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-size: 18px;
+}
